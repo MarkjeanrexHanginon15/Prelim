@@ -34,3 +34,4 @@ Watch Me App
 <img src="assets/images/screenshot/tabs4.jpg">
 
 # Walkthrough
+* https://youtu.be/53WHLs4V-G0
